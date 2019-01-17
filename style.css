@@ -49,7 +49,7 @@ body{
 #menu a:hover{
 	color: #f7b600;
 	background: #fff;
-	transition: all ease-in-out 100ms;
+	transition: all ease-in-out 250ms;
 }
 
 /* Formatação Postagens Principais */
