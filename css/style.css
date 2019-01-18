@@ -52,6 +52,11 @@ body{
 	transition: all ease-in-out 100ms;
 }
 
+.selected{
+	color: #f7b600;
+	background-color: #565656;
+}
+
 /* Formatação Postagens Principais */
 
 #container{
